@@ -1,0 +1,11 @@
+/* login-style.css */
+.root {
+    -fx-background-image: url('boot.png'); /* Χρώμα φόντου */
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-radius: 15px;   /* Στρογγυλεμένες άκρες */
+    -fx-border-radius: 15px;       /* Στρογγυλεμένες άκρες για το περίγραμμα */
+    -fx-border-width: 2px;
+    -fx-border-color: #b0a9af;
+}
